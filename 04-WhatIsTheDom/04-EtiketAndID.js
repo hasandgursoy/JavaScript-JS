@@ -12,6 +12,5 @@ let link = document.querySelector("#kodluyoruzLink");
 console.log(link.innerHTML);
 link.innerHTML +=" degisti";
 link.style.color = "red";
-link.clas
 
 
